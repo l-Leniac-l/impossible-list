@@ -46,6 +46,7 @@ These are the impossible things I want to do:
 - [ ] I want to pilgrimage in Paths of Saint James.
 - [ ] I want to travel to all european countries.
 - [ ] I want to visit China and Japan.
+- [ ] I want to visit Australia.
 
 ## Random Goals
 
