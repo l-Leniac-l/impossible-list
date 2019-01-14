@@ -43,7 +43,7 @@ These are the impossible things I want to do:
 - [ ] I want to be fluent in at least three foreign languages.
 
 ## Travel Goals
-- [ ] I want to pilgrimage in Paths of Saint James.
+- [x] I want to pilgrimage the Camino de Santiago.
 - [ ] I want to travel to all european countries.
 - [ ] I want to visit China and Japan.
 - [ ] I want to visit Australia.
