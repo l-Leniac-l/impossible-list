@@ -47,6 +47,7 @@ These are the impossible things I want to do:
 - [ ] I want to travel to all european countries.
 - [ ] I want to visit China and Japan.
 - [ ] I want to visit Australia.
+- [ ] I want to visit Korea.
 
 ## Random Goals
 
