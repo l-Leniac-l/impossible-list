@@ -10,37 +10,33 @@ These are the impossible things I want to do:
 
 ## Personal Goals
 
-- [ ] I want people to enjoy spending time with me
+- [ ] I want to stop judging myself
 - [ ] I want to stop judging people.
-- [ ] I want to make the ones around me happy.
 - [ ] I want to spread love and share my feelings.
-- [ ] I want to be more grateful.
+- [ ] I want to be grateful for everything and never complain about anything.
 
 ## Professional Goals
 
-- [ ] I want to work less than 10 hours a week. I mean doing the boring job.
-- [ ] I want to be known for my expertise.
-- [ ] I want to write a book or an e-book.
-- [ ] I want to be the owner of my time.
+- [ ] I want to inspire people to do what make them happy.
+- [ ] I want to change someone's life by sharing my experience.
+- [ ] I want to be the most positive leader of all time.
 
 ## Financial Goals
 
-- [ ] I want to have multiple income sources.
-- [ ] I want to make a milion bucks before 30.
-- [ ] I want to have my money working for me.
-- [ ] I want to invest money in another country to get citizenship.
+- [ ] I want to make enough money to live while doing something I'm passionate about.
+- [ ] I want to help people to achieve financial success along my journey to achieve mine.
 
 ## LifeStyle Goals
 
-- [ ] I want to be more healthy.
-- [ ] I want to do only things that I believe to be good.
-- [ ] I want to be an inspirational source to other people.
+- [ ] I want to eat healthly.
+- [ ] I want to gain 15kg of weight.
+- [ ] I want to share my truth with the world.
 
 ## Learning Goals
 
-- [ ] I want to learn how to manage my money.
-- [ ] I want to learn how to invest my money.
 - [ ] I want to be fluent in at least three foreign languages.
+- [ ] I want to be trained by a monk for at least six months.
+- [ ] I want to learn more about leadership and influence.
 
 ## Travel Goals
 - [x] I want to pilgrimage the Camino de Santiago.
@@ -54,3 +50,4 @@ These are the impossible things I want to do:
 - [ ] I want to produce a successful song.
 - [ ] I want to be the owner or partner of an esports tournament organization.
 - [ ] I want to write a movie script.
+- [ ] I want to write a novel book.
