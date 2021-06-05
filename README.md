@@ -30,7 +30,6 @@ These are the impossible things I want to do:
 
 - [ ] I want to eat healthly.
 - [ ] I want to gain 15kg of weight.
-- [ ] I want to share my truth with the world.
 
 ## Learning Goals
 
