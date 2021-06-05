@@ -48,6 +48,6 @@ These are the impossible things I want to do:
 ## Random Goals
 
 - [ ] I want to produce a successful song.
-- [ ] I want to be the owner or partner of an esports tournament organization.
+- [x] I want to be the owner or partner of an esports tournament organization.
 - [ ] I want to write a movie script.
 - [ ] I want to write a novel book.
